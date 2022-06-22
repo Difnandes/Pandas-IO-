@@ -1,4 +1,4 @@
-##Treinando no colab utili zando Pandas 
+## Treinando colab utlizando métodos como criação, seleção, importação e saída de dados
 ## Criando os nomes
 ## Incluindo ID dos alunos
 ## Criando a tabela cursos
